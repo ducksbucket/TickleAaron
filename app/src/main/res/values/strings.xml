@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TickleAaron</string>
+    <string name="editText_who_tickles">Who wants to Tickle Aaron?</string>
+    <string name="button_select">Select</string>
+</resources>
